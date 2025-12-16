@@ -26,9 +26,7 @@
 </p>
 
 
-## 🏆 Competitive Programming
-
-### 📊 My Codeforces Stats
+## 📊 My Codeforces Stats
 <div align="center">
   <a href="https://codeforces.com/profile/andr_migue">
     <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=andr_migue&theme=radical" alt="Codeforces Stats Card"/>
