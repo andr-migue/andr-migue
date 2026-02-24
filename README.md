@@ -3,15 +3,11 @@
 
 ## 🛠️ Technical Skills
 
+### 🧠 **General Programming**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,rust,python,git&perline=5" />
+
 ### 🎮 **Game Development**
 <img src="https://skillicons.dev/icons?i=godot&perline=6" />
-
-### 🧠 **General Programming**
-<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,git&perline=5" />
-
-### 🌐 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=5" />
-
 
 ## 📊 My Codeforces Stats
 <div align="center">
