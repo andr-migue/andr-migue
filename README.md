@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=godot&perline=6" />
 
 ### 🧠 **General Programming**
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,git&perline=5" />
 
 ### 🌐 **Frontend Development**
 <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=5" />
