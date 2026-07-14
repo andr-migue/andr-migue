@@ -3,10 +3,3 @@
 
 ### 🧠 **General Programming**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,rust,python,typescript,html,css,react&perline=5" />
-
-## 📊 My Codeforces Stats
-<div align="center">
-  <a href="https://codeforces.com/profile/andr_migue">
-    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=andr_migue&theme=radical" alt="Codeforces Stats Card"/>
-  </a>
-</div>
